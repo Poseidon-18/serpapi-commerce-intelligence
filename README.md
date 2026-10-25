@@ -10,12 +10,12 @@ This application leverages **SerpApi's Google Shopping API** to aggregate multi-
 - **Visual Merchant Analytics**: Interactive price distribution bar charts powered by Plotly.
 - **Merchant Comparison**: Clean tabular view comparing ratings, review counts, and direct product links.
 
-# Tech Stack
+# Tech Stack:
 - **Data Engine**: SerpApi (`google-search-results`)
-- **Backend / UI**: Python, Streamlit
+- **Backend: Python, Streamlit
 - **Data & Visualizations**: Pandas, Plotly
 
-# Startuo
+# TRY IT FOR YOURSELF:
 1. Clone the repository: U should know how to clone
 2. Set up virtual environment: python -m venv venv
 source venv/bin/activate
